@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Flashcard Generator",
+  "description": "A powerful and beautiful flashcard generator using the Gemini API. Create study sets from a topic or by pasting term-definition pairs, with customizable options for language, difficulty, and more.",
+  "requestFramePermissions": []
+}
